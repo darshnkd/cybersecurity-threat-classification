@@ -1,6 +1,10 @@
 # 🔐 Cybersecurity Threat Classification  
 *A machine learning approach for detecting and classifying network intrusions using the CICIDS2017 dataset.*
 
+## Google Colab Notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TtHnR6Gq96GFTXLEzMD3HqfPf-Ji9Dbb)
+
+
 ---
 
 ## 📌 Overview
